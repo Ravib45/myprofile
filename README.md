@@ -16,7 +16,7 @@ Welcome to my personal portfolio website. This site showcases my skills, experie
 - [License](#license)
 
 ## Live Demo
-  Live Demo: (#https://ravib45.github.io/myprofile/)
+  Live Demo: https://ravib45.github.io/myprofile/
 ## Introduction
 
 This portfolio is a personal project to highlight my skills in web development and UI design. It includes sections about me, my experience, projects, and contact information. The site is responsive and designed to be user-friendly on both desktop and mobile devices.
