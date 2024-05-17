@@ -15,6 +15,8 @@ Welcome to my personal portfolio website. This site showcases my skills, experie
 - [Contact](#contact)
 - [License](#license)
 
+## Live Demo
+  Live Demo: (#https://ravib45.github.io/myprofile/)
 ## Introduction
 
 This portfolio is a personal project to highlight my skills in web development and UI design. It includes sections about me, my experience, projects, and contact information. The site is responsive and designed to be user-friendly on both desktop and mobile devices.
@@ -35,23 +37,4 @@ This portfolio is a personal project to highlight my skills in web development a
 - **CSS3**
 - **JavaScript**
 - **Bootstrap 5**
-- **Git**
-- **Vercel**
 
-## Project Structure
-my-portfolio/
-├── assets/
-│ ├── ravib.jpg
-│ ├── me2.jpg
-│ ├── experience.png
-│ ├── education.png
-│ ├── checkmark.png
-│ ├── arrow.png
-│ ├── email.png
-│ ├── linkedin.png
-│ ├── github.png
-│ └── Ravi_Resume.pdf
-├── index.html
-├── style.css
-├── mediaqueries.css
-└── script.js
